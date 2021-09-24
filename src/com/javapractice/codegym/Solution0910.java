@@ -1,6 +1,6 @@
 package com.javapractice.codegym;
 
-package zh.codegym.task.task09.task0910;
+//package zh.codegym.task.task09.task0910;
 
 import java.util.ArrayList;
 
