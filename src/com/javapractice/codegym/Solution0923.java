@@ -31,7 +31,7 @@ public class Solution {
         }
         for(String s:v){
             System.out.print(s);
-            System.out.print("  ");
+            System.out.print("   ");
 
         }
         System.out.println();
